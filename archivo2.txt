@@ -1,3 +1,2 @@
 linea 1 main
-linea 2 main
-linea 3 main
+linea 2 archivo2
