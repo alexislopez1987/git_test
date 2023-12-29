@@ -1,1 +1,2 @@
 linea 1 main
+linea 2 archivo2
